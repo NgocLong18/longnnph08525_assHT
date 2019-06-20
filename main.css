@@ -1,0 +1,191 @@
+header{
+    background: #f7f7f7;
+}
+
+.icon img{
+    padding: 20px;
+}
+.banner {
+    background: #f7f7f7;
+}
+.banner .container{
+    position: relative;
+}
+.banner--title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.banner--title h2 {
+    font-size: 100pt;
+    color: #ffffff;
+    font-weight: normal;
+}
+.banner--title h3{
+    font-size: 100pt;
+    color: #ffffff;
+}
+.banner-btn .btn{
+    font-size: 20px;
+}
+.banner{
+    margin-bottom: 80px;
+}
+/* end banner*/
+.section-title{
+    text-align: center;
+    margin: 45px 0;
+}
+.card-body{
+    background: #f7f7f7;
+}
+.design-link{
+    font-size: 12pt;
+    font-weight: bolder;
+    color: #3755d8;
+}
+.card-title{
+    font-size: 16pt;
+    color: #5f5f60;
+}
+.card-text{
+    font-size: 12pt;
+    color: #9c9da0;
+}
+.price-new{
+    font-size: 20pt;
+    margin-bottom: 30px;
+}
+.price-old{
+    margin-left: 7px;
+    font-size: 14pt;
+    text-decoration: line-through;
+    color: #dfe0e6;
+}
+.btn{
+    font-size: 12pt;
+}
+.section-item{
+    margin-bottom: 80px
+}
+.item-star{
+    margin-left: 1px;
+    margin-bottom: 15px;
+}
+.col-3{
+    margin-bottom: 30px;
+}
+/*end section-item*/
+.course-categories{
+    background: #f7f7f7;
+}
+.course-categories-heading{
+    padding-top: 30px;
+}
+.your-project-row{
+    background: #ee5926;
+}
+.your-project-tittle{
+    margin-right: -20px;
+    padding: 80px 30px 0px 30px;
+}
+.jumbotron-title{
+    font-size: 30pt;
+    margin-bottom: 50px;
+}
+.jumbotron-title-text{
+    color: #ffffff;
+}
+.jumbotron-lead{
+    font-size: 12pt;
+}
+.your-project{
+    margin: 80px 0px;
+}
+.ticket{
+    margin-left: 7px;
+    font-size: 14pt;
+    font-weight: bolder;
+}
+.about-us{
+    background: url(bg.png);
+    text-align: center;
+}
+.about-us--title{
+    color: #ffffff;
+    font-size: 30pt;
+    padding-top: 45px;
+}
+.about-us--h4{
+    color: #6c83e6;
+}
+.about-us-lead{
+    margin-top: 50px;
+    font-size: 12pt;
+    color: #cccccc;
+    padding-bottom: 45px;
+}
+.subcribe{
+    text-align: center;
+    background: url(sub.png) ;
+}
+.subcribe--content{
+    font-size: 16pt;
+    color: #ffffff;
+    margin-right: 50px;
+    padding-left: 200px;
+}
+.sub{
+    padding: 10px;
+}
+.footer-end{
+    background: #252526;
+    color: #ffffff;
+    padding-top: 40px;
+}
+.footer-end--row{
+    padding-bottom: 60px;
+}
+.footer-end--lead{
+    margin-top: 40px;
+    font-size: 11pt;
+    margin-bottom: 40px;
+}
+.ft-end-address{
+    margin-bottom: 20px;
+    font-size: 11pt;
+}
+.footer-end--tile{
+    font-size: 18pt;
+    margin-bottom: 50px;
+}
+.footer-end--media-img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+.media-body h5{
+    font-size: 11pt;
+}
+.footer-end--col ul{
+    list-style: none;
+    margin-left: -40px;
+}
+.footer-end--col ul li p a {
+    color: #ffffff;
+    font-size: 11pt;
+}
+.ft-last{
+    background: #313233;
+    text-align: center;
+    font-size: 10pt;
+}
+.ft-last--text{
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.ft-last--text a{
+    color: #ee5926;
+}
